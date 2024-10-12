@@ -3,9 +3,9 @@ import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import Link from "next/link";
 import menuItems from "./menuItems";
-import { IoIosArrowDown } from "react-icons/io";
-import { IoIosArrowUp } from "react-icons/io";
-const header = () => {
+import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
+
+const Header = () => { // Change 'header' to 'Header'
   const [isOpen, setIsOpen] = useState(false);
   const [openSubMenus, setOpenSubMenus] = useState({});
 
@@ -33,7 +33,7 @@ const header = () => {
           </div>
           <div
             className={`md:flex items-center space-x-6 ${
-              isOpen ? "hidden" : "hidden"
+              isOpen ? "block" : "hidden"
             } md:block`}
           >
             {menuItems.map((item, index) => (
@@ -104,4 +104,4 @@ const header = () => {
   );
 };
 
-export default header;
+export default Header; // Export the renamed component
