@@ -24,7 +24,7 @@ const BannerSlider = () => {
     >
       <SwiperSlide className="items-center  md:hidden bg-[url('/images/background.jpg')] bg-cover bg-center h-screen flex  justify-center">
       <Image
-      src="/1.pngd"
+      src="/1.png"
       width={0}
       height={0}
       sizes="100vw"
