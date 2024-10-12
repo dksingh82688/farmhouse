@@ -133,7 +133,7 @@ If you&apos;re looking for a long-term investment or a weekend retreat, it&apos;
             </h2>
 
             <p className="py-[5px] font-light text-[12px] leading-relaxed">
-            Whether you&apos;re buying, renting, or simply exploring the market, farmhouses in Delhi offer a unique combination of luxury, space, and tranquility. With various options across different price ranges, from premium high-end estates to affordable escapes on the outskirts, there&apos;s a farmhouse to meet every need. If you dream of escaping the hustle and bustle of city life, now might be the perfect time to explore what Delhi's farmhouse market has to offer.
+            Whether you&apos;re buying, renting, or simply exploring the market, farmhouses in Delhi offer a unique combination of luxury, space, and tranquility. With various options across different price ranges, from premium high-end estates to affordable escapes on the outskirts, there&apos;s a farmhouse to meet every need. If you dream of escaping the hustle and bustle of city life, now might be the perfect time to explore what Delhi&apos;s farmhouse market has to offer.
 
 
             </p>
