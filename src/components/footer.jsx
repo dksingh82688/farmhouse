@@ -51,20 +51,19 @@ const footer = () => {
                   </p>
                   <p className="mt-2">Phone Numbers:</p>
                   <ul className="space-y-2 mt-2">
-                    <li>+91 98101 50047</li>
-                    <li>+91 98101 50047</li>
-                    <li>+91 98101 50047</li>
-                    <li>+91 98101 50047</li>
+                    <li><Link href="tel:+91 98101 50047">+91 98101 50047</Link></li>
+                    
+                    
                   </ul>
                   <p className="mt-4">Emails:</p>
                   <ul>
-                    <li>gitin@rpgestate.in</li>
-                    <li>gitin@rpgestate.in</li>
+                    <li><Link href='mailto:gitin@rpgestate.in'>gitin@rpgestate.in</Link></li>
+                    
                   </ul>
                   <p className="mt-4">
                     Website:{" "}
                     <a
-                      href="https://www.farmhousesouthdelhi.com"
+                      href="https://farmhouseindelhi.com/"
                       className="underline"
                     >
                       www.farmhousedelhi.com
